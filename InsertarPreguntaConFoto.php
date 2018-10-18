@@ -60,10 +60,6 @@ include "ParametrosBD.php";
 
 
 
-//if(!move_uploaded_file($_FILES['imagen']['tmp_name'],"$dir/$imagen")){
-//	echo "error";
-
-
 
 
 

@@ -12,7 +12,7 @@ else{
     
     $servidor = "localhost";
     $usuario = "id7284360_root2";
-    $password = "QQ22qq22";
+    $password = "";
     $basededatos ="id7284360_quiz2";
 
 }
